@@ -54,3 +54,6 @@ saveas(gcf, 'Penjualan_Toko_Satrio_2510514021.png');
 fprintf('Data Di yang terbentuk: \n');
 disp(Di);
 fprintf('Diagram telah disimpan dengan nama: Penjualan_Toko_Satrio_2510514021.png\n');
+
+% Timestamp code
+disp(['Tanggal & Waktu Eksekusi: ', datestr(now)])
