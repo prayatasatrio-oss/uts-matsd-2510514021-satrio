@@ -1,5 +1,5 @@
 % ======================================================
-% UTS Matematika Sains Data – Soal 7 (e)
+% UTS Matematika Sains Data – Soal 7 (ef)
 % ------------------------------------------------------
 % Nama  : Satrio Radithya Prayata
 % NIM   : 2510514021
